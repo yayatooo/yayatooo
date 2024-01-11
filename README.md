@@ -1,6 +1,6 @@
 # 🦦 About Me
 <h3>Hi! I'm Rahmat Hidayat 👋</h3>
-<br>🔭 I’m currently working at Home <br>🌱 I’m currently learning MERN Stack<br>💬 Let's talk about Frontend Development and NextJs<br>
+<br>🔭 I’m currently fulltime learning <br>🌱 I’m currently learning MERN Stack<br>💬 Let's talk about Frontend Development and NextJs<br>
 
 
 ## 🌐 Socials
