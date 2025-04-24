@@ -1,6 +1,6 @@
 # 🦦 About Me
 <h3>Hi! I'm Rahmat Hidayat 👋</h3>
-<br>🔭 I’m currently fulltime learning <br>🌱 I’m currently learning MERN Stack<br>💬 Let's talk about Frontend Development and NextJs<br>
+<br>🔭 Let's talk about ElysiaJs and NextJs <br>🌱 I’m currently learning about Devops field<br>💬 Fun fact : everyday using Nextjs but sometime i forget how to center div <br>
 
 
 ## 🌐 Socials
@@ -13,5 +13,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yayatooo&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V1bDltY2U4bjV6NWZpa29jMG1za3NjOXR4NG02b3F1MXYwdzNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" align="center" style="width: 100%" />
+</div>  
+  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
