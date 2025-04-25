@@ -53,10 +53,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yayatooo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>  
+ 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yayatooo&&style=flat-square" align="center" />
-</div>  
+</div> 
+
+<br/> 
 
 <div align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V1bDltY2U4bjV6NWZpa29jMG1za3NjOXR4NG02b3F1MXYwdzNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" align="center" style="width: 100%" />
