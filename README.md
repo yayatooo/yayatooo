@@ -39,8 +39,16 @@
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>
+
+
+
+<br/>  
+
+
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yayatooo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yayatooo&icon=2&color=0)](https://visitcount.itsvg.in)
